@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/tvheadend
+jellyfin/jellyfin:10.8.6
