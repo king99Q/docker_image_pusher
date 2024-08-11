@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 linuxserver/tvheadend:arm64v8-latest
-herberthe0229/iptv-sources:latest@sha256:f3012db35beb850b00281697ae137a758a2afa356364e5bd84b568706e38e351
+jellyfin/jellyfin:10.8.6
