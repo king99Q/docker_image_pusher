@@ -7,3 +7,4 @@ jellyfin/jellyfin:10.8.6-arm64
 --platform=linux/arm64 klo2k/nexus3:3.30.0-01
 --platform=linux/arm64 mysql:8.4.2
 --platform=linux/arm64 nginx
+--platform=linux/arm64 jrottenberg/ffmpeg
