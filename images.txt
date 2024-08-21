@@ -10,4 +10,3 @@ jellyfin/jellyfin:10.8.6-arm64
 jrottenberg/ffmpeg
 --platform=linux/arm64  linuxserver/ffmpeg 
 --platform=linux/arm64 mysql:8.0
-mysql:5.7.4
