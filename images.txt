@@ -1,2 +1,4 @@
 #支持指定架构
-fooololo/aipan-netdisk-search
+youshandefeiyang/allinone 
+youshandefeiyang/av3a-assistant:amd64
+yuexuangu/allinone_format:latest
