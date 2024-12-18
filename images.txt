@@ -6,3 +6,4 @@
 ghcr.io/blakeblackshear/frigate:0.14.1
 home-assistant:stable
 jellyfin/jellyfin:10.8.6-arm64
+fooololo/aipan-netdisk-search
