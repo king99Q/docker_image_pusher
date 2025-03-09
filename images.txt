@@ -1,2 +1,2 @@
 #支持指定架构
-guovern/iptv-api
+ghcr.io/limmer55/streamdock:stable
