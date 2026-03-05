@@ -1,2 +1,2 @@
 #支持指定架构
-ghcr.io/limmer55/streamdock:stable
+frigate:stable-standard-arm64 
