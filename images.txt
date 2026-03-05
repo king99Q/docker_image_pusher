@@ -1,2 +1,2 @@
 #支持指定架构
-frigate:stable-standard-arm64 
+docker.cnb.cool/frigate-cn/frigate:stable-standard-arm64
