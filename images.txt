@@ -1,2 +1,2 @@
 #支持指定架构
-docker.cnb.cool/frigate-cn/frigate:stable-standard-arm64
+byaidu/pdf2zh
