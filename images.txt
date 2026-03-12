@@ -1,2 +1,2 @@
 #支持指定架构
-byaidu/pdf2zh:latest
+byaidu/pdf2zh
