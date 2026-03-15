@@ -1,3 +1,4 @@
 #支持指定架构
-byaidu/pdf2zh
-awwaawwa/pdfmathtranslate-next
+lscr.io/linuxserver/phpmyadmin:latest
+mariadb:10.6 --platform=linux/arm64/v8
+arm64v8/php:7.4-fpm-nginx  --platform=linux/arm64/v8
